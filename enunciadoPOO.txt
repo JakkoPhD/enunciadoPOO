@@ -1,0 +1,50 @@
+- apartir das avaliações montar um sistema para uma escola
+
+- criar enunciado para sistema de gestao de uma escola
+	notas?
+	procurar info sobre cigarra
+	fazer consultoria sobre informatização da escola
+	definir para que objetivo estou a construir o sistema
+	
+- implementar classes
+	- Classes-Mãe:
+		- Curso
+		- Habilitação //TODO Função??
+		- Aluno //PERIGOSO!!
+		- ?? //TODO
+		
+	- Classes-Filhas:
+		- Curso:
+			- Licenciatura
+			- Mestrado
+			- Doutoramento
+			- TESP
+			
+		- Habilitação
+			- ?? //TODO
+			
+	- Projeto UML: diagramaEnunciadoPOO.uml
+
+- Objetivo: analisar percurso academico e ver se entra em determinado curso do ensino superior
+		- vale para Licenciaturas + Mestrados + Doutoramentos?
+		- vale para TESP + Outros?
+
+- Identificação Requisitos
+		- vale para Licenciaturas + Mestrados + Doutoramentos? (M/S)
+		- vale para TESP + Outros? (S)
+
+	- para entrar em curso superior: (MOSCOW)
+		- verificar se tem as cadeiras necessarias (11º, 12º, Lic., etc...) (M)
+		- verificar se tem exames pedidos (1 de 3, 2 de 3, 2 de 2, etc...) (M)
+		- provas adicionais? //TODO (S)
+		- notaFinalSecundario * <percentagem> + notasExamesPedidos * <percentagem> + [notasProvasAdicionais * percentagem] (M)
+		
+	Funcionalidade:
+		Recolher dados do percurso academico do aluno (M)
+		Escolher curso a aceder (M)
+		Calcular dados relevantes (M)
+		Comparar dados relevantes a curso a aceder (M)
+		
+		Output para utilizador (CO)
+		Input de Utilizador (CO)
+		Falar com BD de cursos / percurso (W)
