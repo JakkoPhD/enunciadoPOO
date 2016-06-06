@@ -1,0 +1,118 @@
+Evolução Academica
+
+* Pré-Escolar
+
+  - Infantário
+    Complementa/suplementa a ação educativa da família
+    Destina-se a crianças de 3 anos até ingresso no ensino básico
+    Desenvolve capacidades desde higiene e saúde pessoal à integração moral e social
+    Não tem nota final(?)
+    Não obrigatório
+  - Jardim de Infância
+    Local onde se presta ensino pré-escolar
+  - Educação Extraescolar
+    Pode existir do ano 0 ao ano 200
+
+  - Corresponde ao nível 0 do ISCED
+
+* Ensino Básico
+
+  Cada ciclo presume a aprovação no ciclo anterior
+  Cada ciclo expande/aprofunda as matérias do ciclo anterior
+  - Ensino Primário
+    Obrigatório apartir dos 6 aos 15 anos
+    Compreende 3 ciclos para um total de 9 anos
+    - 1º Ciclo
+      4 anos
+      Lecionado por 1 professor
+      Corresponde ao nível 1A do ISCED
+    - 2º Ciclo
+      2 anos
+      Dividido em áreas interdisciplinares
+      1 Professor por área
+      Corresponde ao nível 1B do ISCED
+    - 3º Ciclo
+      3 anos
+      Tem um plano curricular unificado que integra diversas áreas vocacionais
+      1 Professor por disciplina / grupo de disciplinas
+      Corresponde ao nível 2 do ISCED
+
+* Ensino Secundário
+
+  - Ensino Médio
+    Para idades entre os 15 e os 18
+    Corresponde ao nível 3 do ISCED
+    Ciclo de 3 anos
+    Nota final
+    - Modalidades
+      - Curso artístico especializado
+	Permite prosseguimento para cursos de especialização ou ensino superior
+      - Curso científico-humanístico
+	Permite prosseguimento para cursos do ensino superior universitário/politecnico
+      - Curso de aprendizagem
+	Previligiam inserção no mercado de trabalho, permitem prosseguimento de estudos
+	Dirigido a jovens
+      - Curso de educação e formação
+	Permitem conclusão do ensino secundário e preparação para o mercado de trabalho
+	Dão qualificação escolar e profissional
+	Articulam com o sector empresarial
+      - Curso profissional
+	Preparam para o mercado de trabalho
+	Articulam com o sector empresarial
+      - Curso tecnológico
+	Preparam para mercado de trabalho
+	Permitem acesso a cursos pós-secundários de especialização tecnologica
+      - Curso de hotelaria / turismo
+	Permitem acesso ao mercado de trabalho, especificamente para a inserção no sector de turismo e hotelaria
+	
+    - Ensino recorrente
+      Dirigido a adultos
+      Concilia estudos com actividade profissional
+      Organizado por módulos
+
+* Ensino Profissional
+
+  - Ensino Técnico
+    Preparam para o mercado de trabalho
+    Articulam com o setor empresarial
+    Nota final
+
+* Ensino Superior
+
+  Compreende o ensino universitário e politécnico
+  - Acesso ao ensino superior
+  - Curso Sequencial
+  - Graduação
+    - Bacharelato
+    - Licenciatura
+      Em politécnico dá 180 créditos
+      Em universitário dá 180 a 240 créditos
+      1º ciclo dde ensino superior
+      Duração de 3 a 4 anos
+      - Mestrado Integrado
+	Duração de 5 anos
+	Dá 300 a 360 créditos e grau de Mestre
+    - Tecnologia
+
+* Pós-Graduação
+
+  - Lato sensu
+    - Especialização
+      Duração de 1 ano
+      Pode dar grau de Mestre
+      Requer dissertação / tese
+    - MBA
+  - Strictu sensu
+    - Mestrado
+      Duração de 2 anos
+      Dá 90 a 120 créditos
+    - Doutorado
+  - Honorário
+    - Honoris causa
+      Concedido por universidades, não pode ser obtido por vontade propria
+
+* Pós-Doutorado
+
+  - Habilitação
+  - Livre-docência
+  - Notório saber
