@@ -33,7 +33,7 @@
 		- vale para Licenciaturas + Mestrados + Doutoramentos? (M/S)
 		- vale para TESP + Outros? (S)
 
-	- para entrar em curso superior: (MOSCOW)
+	- para entrar em curso superior:
 		- verificar se tem as cadeiras necessarias (11º, 12º, Lic., etc...) (M)
 		- verificar se tem exames pedidos (1 de 3, 2 de 3, 2 de 2, etc...) (M)
 		- provas adicionais? //TODO (S)
