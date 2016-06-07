@@ -1,6 +1,7 @@
 package Model.PercursoEscolar; 
 
-import java.util.*;
+import java.util.Date;
+import java.util.Set;
 import avaliacoes.Avaliacao;
 
 /**

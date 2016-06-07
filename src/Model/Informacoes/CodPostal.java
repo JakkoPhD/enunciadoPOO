@@ -1,7 +1,5 @@
 package Model.Informacoes;
 
-import java.util.*;
-
 /**
  * 
  */

@@ -1,7 +1,5 @@
 package Model.PercursoEscolar;
 
-import java.util.*;
-
 /**
  * 
  */
