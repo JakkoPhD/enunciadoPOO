@@ -1,6 +1,6 @@
-package avaliacoes;
+package disciplinas;
 
-public class Semestral extends Avaliacao {
+public class Semestral extends Disciplina {
 	
 
 	// ATRIBUTOS

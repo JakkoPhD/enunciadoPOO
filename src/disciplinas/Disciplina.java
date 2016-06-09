@@ -1,6 +1,6 @@
-package avaliacoes;
+package disciplinas;
 
-public abstract class Avaliacao {
+public abstract class Disciplina {
 		// MÉTODOS ABSTRACTOS
 	
 	public abstract boolean aprovado();

@@ -1,4 +1,4 @@
-package avaliacoes;
+package disciplinas;
 
 public class Seminario extends Anual {
 	

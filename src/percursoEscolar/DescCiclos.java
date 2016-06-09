@@ -1,4 +1,4 @@
-package Model.PercursoEscolar;
+package percursoEscolar;
 
 /**
  * 

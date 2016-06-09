@@ -1,4 +1,4 @@
-package avaliacoes;
+package disciplinas;
 
 import java.util.ArrayList;
 
